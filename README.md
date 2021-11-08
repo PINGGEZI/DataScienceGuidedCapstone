@@ -1,4 +1,4 @@
-# DataScienceGuidedCapstone
+# Big Mountain Resort (Guided Project)
 
 Hello students!
 Welcome to the Data Science Guided Capstone! 
